@@ -1,1 +1,1 @@
-Assignment codes from the CP course by Coding Ninjas
+Assignment codes from CP course - Coding Ninjas
